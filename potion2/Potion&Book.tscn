@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://dgxrosgvwo82w"]
+
+[ext_resource type="Texture2D" uid="uid://durguotjxc0bw" path="res://0849a69a-53b9-4b10-bccc-b9f7ba4f8fcf.png" id="1_751bl"]
+[ext_resource type="Texture2D" uid="uid://dgxhh3ifyeybb" path="res://1842f276-9463-4a26-90f7-3bd58d7acd21.png" id="2_ici55"]
+[ext_resource type="Texture2D" uid="uid://blknw4uigq8wn" path="res://dc233a08-fcba-4fd5-88b8-ede40644143b.png" id="3_jl2vi"]
+
+[node name="0849a69a-53b9-4b10-bccc-b9f7Ba4f8Fcf" type="Sprite2D"]
+position = Vector2(148, 169)
+scale = Vector2(0.240829, 0.27492)
+texture = ExtResource("1_751bl")
+
+[node name="1842f276-9463-4a26-90f7-3Bd58d7Acd21" type="Sprite2D" parent="."]
+position = Vector2(1673.38, 10.9123)
+texture = ExtResource("2_ici55")
+
+[node name="Dc233a08-fcba-4Fd5-88b8-ede40644143b" type="Sprite2D" parent="."]
+position = Vector2(834.616, 1302.2)
+texture = ExtResource("3_jl2vi")
