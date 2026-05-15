@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://k5xl2jbcpg01"]
+
+[ext_resource type="Texture2D" uid="uid://c3psjrrelt7v" path="res://1f5cb824-f1d0-4316-84cd-461994db19f4.png" id="1_gw1f0"]
+[ext_resource type="Texture2D" uid="uid://coca5gmt02sdx" path="res://e6dd070f-568f-4a8b-b0d4-42ee24221e33.png" id="2_bn10o"]
+
+[node name="1f5Cb824-f1d0-4316-84Cd-461994Db19f4" type="Sprite2D"]
+position = Vector2(527, 69)
+scale = Vector2(0.646484, 0.568359)
+texture = ExtResource("1_gw1f0")
+
+[node name="E6Dd070f-568f-4a8b-b0d4-42Ee24221e33" type="Sprite2D" parent="."]
+position = Vector2(4.64047, 1060.95)
+texture = ExtResource("2_bn10o")
